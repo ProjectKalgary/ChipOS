@@ -1,0 +1,14 @@
+Welcome to PIM! A text editor written in Python for Chip OS!
+ 
+It's named after VIM, because PIM was designed to be somewhat like it, but it isn't a one-to-one copy.
+ 
+PIM pretty much is just the basics:
+  -Navigating the file
+  -Editing the file
+  -Line insertion and deletion
+  -File reading/saving
+ 
+It's pretty cool, though! It's WAYYYY better than the "write" and "addf" commands!
+ 
+You can even write code in it too!
+Paired with the "read" and "run" commands, this text editor is a beast!
